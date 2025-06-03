@@ -40,4 +40,4 @@
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](www.linkedin.com/in/sujithkaruvanchery) | [Email](mailto:sujithkaruvanchery@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sujithkaruvanchery) | [Email](mailto:sujithkaruvanchery@gmail.com)
