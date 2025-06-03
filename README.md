@@ -13,7 +13,7 @@
 ---
 
 ## 💼 Tech Stack
-- **Frontend:** React, HTML, CSS, JavaScript, Bootstrap  
+- **Frontend:** React, HTML, CSS, JavaScript, Bootstrap, Tailwind 
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, SQL  
 - **Tools:** Git, GitHub, VS Code, Postman  
