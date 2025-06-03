@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Sujith K!
 
-<!--
-**SujithKaruvanchery/SujithKaruvanchery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Enthusiast | MERN Developer in the Making | Turning Ideas into Code 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+🎓 I am a self-driven learner passionate about writing clean code and solving complex problems.  
+💻 I specialize in building responsive full-stack applications using the MERN stack.  
+🚀 Currently, I am expanding my skills in UI/UX design, deployment pipelines, and API integrations.  
+📚 I’m always upskilling through hands-on projects, courses, and collaboration.
+
+---
+
+## 💼 Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, SQL  
+- **Tools:** Git, GitHub, VS Code, Postman  
+- **Other:**  
+  - JWT Authentication  
+  - RESTful APIs  
+  - Clean Code Practices  
+  - Deployment (Vercel, Render)
+
+---
+
+## 🌟 Extra Skills
+- UI/UX Design Enthusiast  
+- Detail-oriented with a strong focus on clean code  
+- Responsive design mindset
+
+---
+
+## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujithKaruvanchery&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SujithKaruvanchery&theme=radical)
+
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](www.linkedin.com/in/sujithkaruvanchery) | [Email](mailto:sujithkaruvanchery@gmail.com)
